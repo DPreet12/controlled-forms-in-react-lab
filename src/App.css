@@ -18,6 +18,29 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+button {
+  margin-top: .5em;
+  background: #f34fc7 !important;
+}
+
+
+
+.bookCardsDiv {
+  
+ 
+  display: flex;
+  
+ 
+ 
+}
+
+.bookCardsDiv .bookList {
+  max-width: 50%;
+  margin-top: 1em;
+  background-color: #7c7979;
+  margin-left: 2em;
+
+}
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
